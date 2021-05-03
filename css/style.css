@@ -1,7 +1,4 @@
-/*
-Author: W3layouts
-Author URL: http://w3layouts.com
- */
+
 html {
   scroll-behavior: smooth;
 }
@@ -441,7 +438,7 @@ ul.social li a span {
   }
 
   a.btn.contact {
-    padding: 18px 25px;
+    padding: 13px 15px;
   }
 }
 
