@@ -63,6 +63,9 @@ fieldset {
   border: none;
 }
 
+
+.notice-marquee {font-family:Verdana;font-size:10pt; margin-buttom: 5px; color:#FFFFFF;border-width:0;}
+
 legend {
   display: block;
   margin-bottom: 8px;
