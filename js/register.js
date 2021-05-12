@@ -10,6 +10,8 @@ var firebaseConfig = {
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
+const button = document.querySelector('button')
+button.disabled = true
 
 //Reference for form collection(3)
 let formMessage = firebase.database().ref('register');
